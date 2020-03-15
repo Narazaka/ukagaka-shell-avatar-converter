@@ -13,6 +13,7 @@
   "author": "",
   "license": "Zlib",
   "dependencies": {
+    "fso": "^2.7.0",
     "jimp": "^0.9.5",
     "surfaces_txt2yaml": "^2.2.1",
     "ukagaka-surface-to-standard-png": "^1.0.2"
