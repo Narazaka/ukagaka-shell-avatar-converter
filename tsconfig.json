@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "module": "CommonJS",
+        "target": "ES2017",
+        "declaration": true,
+        "forceConsistentCasingInFileNames": true,
+        "strict": true,
+        "outDir": "dist"
+    },
+    "exclude": [
+        "node_modules",
+        "dist"
+    ]
+}

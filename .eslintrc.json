@@ -1,0 +1,16 @@
+{
+    "parser": "@typescript-eslint/parser",
+    "plugins": [
+        "@typescript-eslint",
+        "prettier"
+    ],
+    "extends": [
+        "airbnb-typescript/base",
+        "plugin:prettier/recommended",
+        "prettier/@typescript-eslint"
+    ],
+    "rules": {
+        "@typescript-eslint/no-implied-eval": "off",
+        "@typescript-eslint/no-throw-literal": "off"
+    }
+}
