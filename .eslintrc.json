@@ -11,6 +11,7 @@
     ],
     "rules": {
         "@typescript-eslint/no-implied-eval": "off",
-        "@typescript-eslint/no-throw-literal": "off"
+        "@typescript-eslint/no-throw-literal": "off",
+        "no-plusplus": "off"
     }
 }

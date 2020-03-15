@@ -13,12 +13,17 @@
   "author": "",
   "license": "Zlib",
   "dependencies": {
+    "chardet": "^0.8.0",
+    "find-charset": "^1.0.0",
     "fso": "^2.7.0",
+    "iconv-lite": "^0.5.1",
     "jimp": "^0.9.5",
     "surfaces_txt2yaml": "^2.2.1",
     "ukagaka-surface-to-standard-png": "^1.0.2"
   },
   "devDependencies": {
+    "@types/chardet": "^0.8.0",
+    "@types/node": "^13.9.1",
     "@typescript-eslint/eslint-plugin": "^2.23.0",
     "eslint": "^6.8.0",
     "eslint-config-airbnb-typescript": "^7.0.0",
