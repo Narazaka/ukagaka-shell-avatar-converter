@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "Zlib"
+  "license": "Zlib",
+  "dependencies": {
+    "surfaces_txt2yaml": "^2.2.1",
+    "ukagaka-surface-to-standard-png": "^1.0.2"
+  }
 }
